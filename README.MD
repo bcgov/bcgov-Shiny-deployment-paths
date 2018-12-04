@@ -4,13 +4,14 @@
 See https://github.com/BCDevExchange/Our-Project-Docs/blob/master/discussion/projectstates.md
 If you have bcgovr installed and you use RStudio, click the 'Insert BCDevex Badge' Addin. -->
 
-# getting_started_with_R_Shiny
+
+# BC Gov Shiny apps: pathways to deployment
 
 ### Shiny
 
 [Shiny](https://shiny.rstudio.com/) is an R package built and maintained by RStudio that allows you to build interactive web apps for data reporting and visualization.
 
-This repo contains resources, documents, tools, etc for getting started and deploying your Shiny apps in a BC Government context (including using [RStudio's shinyapps.io](https://www.shinyapps.io/) cloud hosting service).
+This repo contains resources, documents, tools, etc for deploying your Shiny apps in a BC Government context (including using [RStudio's shinyapps.io](https://www.shinyapps.io/) cloud hosting service).
 
 
 
