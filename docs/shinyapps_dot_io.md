@@ -15,6 +15,9 @@ The shinyapps.io service offered by RStudio is an option for deploying your BC G
 
 * open code, posted to a repo within [github.com/bcgov](https://github.com/bcgov) 
 
+* a bcgov subscription with [shinyapps.io](https://www.shinyapps.io/)
+
+
 A Strategic Threat Risk Assessment has been completed for shinyapps.io. Please contact martin.monkman@gov.bc.ca for a copy.
 
 
