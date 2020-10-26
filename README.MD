@@ -1,8 +1,5 @@
-<a id="devex-badge" rel="Inspiration" href="https://github.com/BCDevExchange/assets/blob/master/README.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/inspiration.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
-
-<!-- Add a project state badge
-See https://github.com/BCDevExchange/Our-Project-Docs/blob/master/discussion/projectstates.md
-If you have bcgovr installed and you use RStudio, click the 'Insert BCDevex Badge' Addin. -->
+![img](https://img.shields.io/badge/Lifecycle-Dormant-%23ff7f2a)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 # BC Gov Shiny apps: pathways to deployment
