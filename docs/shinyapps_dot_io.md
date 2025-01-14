@@ -7,13 +7,13 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 # shinyapps.io
 
-The shinyapps.io service offered by Posit (previously RStudio) is an option for deploying your BC Government shiny app, but only if you have an annual enterprise SaaS subscription for the [service shinyapps.io hosting service](https://www.shinyapps.io/) _and_ your app meets some important criteria:
+The shinyapps.io service offered by Posit (previously RStudio) is an option for deploying your BC Government shiny app, but only if you have an annual enterprise SaaS subscription for the [shinyapps.io hosting service](https://www.shinyapps.io/) _and_ so far only if your app meets some important criteria:
 
 * open-licensed data, listed in the B.C. Government's open data catalogue [catalogue.data.gov.bc.ca](https://catalogue.data.gov.bc.ca/dataset?download_audience=Public)
 
-* open-lisenced code, posted to a repo within [github.com/bcgov](https://github.com/bcgov) 
+* open-licensed code, posted to a repo within [github.com/bcgov](https://github.com/bcgov) 
 
-Depending on your Ministry/organization policies and the app functionality, you will need a Privacy Impact Assessment (PIA) and sometimes a Strategic Threat Risk Assessment (STRA) and for the shinyapps.io servive and/your app.
+Depending on your Ministry/organization policies and the app functionality, you will need a Privacy Impact Assessment (PIA) and sometimes a Strategic Threat Risk Assessment (STRA) and for the shinyapps.io servive and/your app. 
 
 
 
